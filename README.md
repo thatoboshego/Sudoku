@@ -104,3 +104,6 @@ python sudoku.py
 
 Thato Boshego
 
+## 📄 License
+
+This project is open-source under the MIT License.
